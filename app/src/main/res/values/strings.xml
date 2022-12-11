@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright©ZakatItuMembawaBerkat</string>
+    <string name="About_text"><a href="https://www.youtube.com/">Source Code Link</a></string>
+    <string name="developer1">NAME: NURUL IZZAH BINTI MOHD AZRI</string>
+    <string name="devId1">STUDENT ID: 2020819822</string>
+    <string name="group">GROUP: RCS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+
+</resources>
